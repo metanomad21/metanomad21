@@ -7,8 +7,8 @@
 ## 📈 My GitHub Stats
 
 - 🌱 I’m currently learning **Solidity** and **Rust**
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Gamefi or Algorithmic stablecoin projects
+- 📫 How to reach me email:0xnomad2082@gmail.com / telegram:https://t.me/metanomad2082
 
 ---
 
