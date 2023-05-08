@@ -23,9 +23,9 @@ I have 5 years of experience in startup projects and 4 years of experience in ga
 ---
 
 ## 🔥 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metanomad21&layout=compact&theme=radical" alt="metanomad21's Most Used Languages" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metanomad21&layout=compact&theme=radical" alt="metanomad21's Most Used Languages" />
+</div>
 ---
 
 ## 📚 My Latest Blog Posts
