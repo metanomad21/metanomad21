@@ -1,38 +1,15 @@
-# 👋 Hi, I'm @metanomad21
+# Hi, I'm Nomad 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=metanomad21&show_icons=true&theme=radical" alt="metanomad21's GitHub Stats" />
-</div>
+I'm a full-stack developer and product builder focused on Web3 systems, AI applications, and games. I enjoy taking a product from an early idea to a working experience: defining its architecture and data model, building the services and interfaces, and testing whether the result solves a real problem.
 
-## 📈 My GitHub Stats
+### What I work on
 
-- 🌱 I’m currently learning **Solidity** and **Rust**
-- 💞️ I’m looking to collaborate on Gamefi or Algorithmic stablecoin projects
-- 📫 How to reach me email:0xnomad2082@gmail.com / telegram:https://t.me/metanomad2082
+- **Web3 systems:** Smart contracts, wallet interactions, trading workflows, on-chain indexing, and APIs. I pay particular attention to order states, settlement, permissions, and the points where data moves between the chain and backend services.
+- **AI applications:** Developer tools, skill discovery, agent workflows, and review interfaces. I'm interested in making AI useful within a clear workflow, with visible evidence, human control, and predictable failure handling.
+- **Games:** Playable prototypes, procedural generation, deterministic game logic, and client–server systems. I like proving a core mechanic through play before expanding it into a larger game.
 
----
+My projects have involved TypeScript, Go, Solidity, React, Next.js, Node.js, PostgreSQL, Redis, and Docker. I've also worked with TON tooling and continue exploring Rust and game development technologies.
 
-## 🏆 About me
+I value clear system boundaries, readable code, reproducible tests, and documentation that matches what the software actually does. I'm open to engineering roles where I can build reliable systems and help turn technically complex ideas into products people can use.
 
-I have 5 years of experience in startup projects and 4 years of experience in game development. I specialize in blockchain core development, smart contract development, and I am a full-stack developer proficient in high-concurrency server architecture. I have developed large-scale online games, e-commerce websites, compliant financial smart contracts, and asset trading management platforms. I am particularly interested in on-chain games, GameFi, and zero-sum games. This repository contains some small projects I've worked on for fun.
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metanomad21&theme=radical" alt="metanomad21's GitHub Streak" />
-</div>
-
----
-
-## 🔥 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metanomad21&layout=compact&theme=radical" alt="metanomad21's Most Used Languages" />
-</div>
----
-
-## 📚 My Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-⭐️ From [metanomad21](https://github.com/metanomad21)
+**Contact:** 0xnomad2082@gmail.com
