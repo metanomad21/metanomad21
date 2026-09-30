@@ -14,12 +14,12 @@ I value clear system boundaries, readable code, reproducible tests, and document
 
 **Contact:** 0xnomad2082@gmail.com
 
-## 欢迎交流与合作
+## Open to Collaboration
 
-我希望与重视真实用户问题的团队合作，把技术方案做成可以验证、可以持续使用的产品。以下是我尤其愿意投入的方向：
+I enjoy working with teams that start with a real user problem and want to turn technical ideas into products people can test and keep using. I'm especially interested in:
 
-- **Web3 系统：** 智能合约、钱包交互、链上数据，以及订单和结算流程。
-- **AI 应用：** Agent 工作流、Skill 发现与应用。我希望把复杂的 AI 能力做成容易理解、容易上手的产品，让没有技术背景的人也能用 AI 解决工作和生活中的具体问题。
-- **游戏产品：** 先把核心机制做成可玩的原型，再通过程序化生成和确定性逻辑打磨体验。
+- **Web3 systems:** Smart contracts, wallet interactions, on-chain data, and reliable order and settlement workflows.
+- **AI applications:** Agent workflows and helping people discover and use AI skills. I want to make powerful AI capabilities easier to understand and use, so people without a technical background can solve practical problems at work and in daily life.
+- **Games:** Building playable prototypes to test core mechanics, then refining the experience through procedural generation and deterministic game systems.
 
-欢迎交流长期工程岗位、产品与技术共建，或阶段性的原型开发与关键模块建设。如果你有明确的用户问题和可验证的目标，欢迎通过上方邮箱联系我。
+I'm open to long-term engineering roles, building products with teams, and focused projects involving prototypes or core systems. If you're working on a clear user problem with a goal we can test, I'd be glad to hear from you at the email above.
